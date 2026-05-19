@@ -1,7 +1,7 @@
 /* =========================================================
    PROJECT: Global Agricultural Greenhouse Gas Emissions Analysis
    TOOLS USED: SQL Server, Power BI
-   DATA PERIOD: 1991–2021
+   DATA PERIOD: 1991â€“2021
 ========================================================= */
 
 ----- DATA CLEANING AND MAPPING ----
@@ -16,7 +16,7 @@ SELECT DISTINCT Area,
 		WHEN Area = 'China, Hong Kong SAR'	THEN 'Hong Kong'
 		WHEN Area = 'China, mainland'	THEN 'China'
 		WHEN Area = 'China, Taiwan Province of'	THEN 'Taiwan'
-		WHEN Area = 'Côte d''Ivoire'	THEN 'Ivory Coast'
+		WHEN Area = 'CÃ´te d''Ivoire'	THEN 'Ivory Coast'
 		WHEN Area = 'Democratic People''s Republic of Korea'	THEN 'North Korea'
 		WHEN Area = 'Eswatini'	THEN 'Swaziland'
 		WHEN Area = 'Lao People''s Democratic Republic'	THEN 'Laos'
@@ -29,7 +29,7 @@ SELECT DISTINCT Area,
 		WHEN Area = 'Russian Federation' THEN 'Russia'
 		WHEN Area = 'Syrian Arab Republic' THEN 'Syria'
 		WHEN Area = 'Timor-Leste' THEN 'East Timor'
-		WHEN Area = 'Türkiye' THEN 'Turkey'
+		WHEN Area = 'TÃ¼rkiye' THEN 'Turkey'
 		WHEN Area = 'United Kingdom of Great Britain and Northern Ireland' THEN 'United Kingdom'
 		WHEN Area = 'United Republic of Tanzania' THEN 'Tanzania'
 		WHEN Area = 'United States of America' THEN 'United States'
@@ -84,7 +84,7 @@ WHERE Area NOT IN (
 	'Palestine',
 	'Pitcairn',
 	'Puerto Rico',
-	'Réunion',
+	'RÃ©union',
 	'Saint Helena, Ascension and Tristan da Cunha',
 	'Saint Pierre and Miquelon',
 	'Serbia and Montenegro',
