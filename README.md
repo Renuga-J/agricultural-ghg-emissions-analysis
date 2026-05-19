@@ -60,16 +60,12 @@ The Power BI dashboard includes:
 
 ### SQL Data Cleaning
 <img width="1427" height="833" alt="sql_datacleaning_casewhen" src="https://github.com/user-attachments/assets/45be255e-906a-4806-89af-19f000a84373" />
-<img width="781" height="813" alt="sql_finaltableprep" src="https://github.com/user-attachments/assets/fd766987-5b98-4724-97a6-0536dc54076e" />
 
 ### SQL Analysis Queries
 <img width="1076" height="761" alt="sql_eda_1" src="https://github.com/user-attachments/assets/53e77d1b-5622-4592-bd20-3e1695e03b0a" />
-<img width="1118" height="808" alt="sql_eda_2" src="https://github.com/user-attachments/assets/6f4d5e43-3b2a-43d2-9c01-78cea65fe832" />
 
 ### Dashboard Overview
 <img width="1347" height="743" alt="dashboard_overview" src="https://github.com/user-attachments/assets/a080315e-cf7f-47bc-85e7-0748726cc7b7" />
-<img width="1347" height="751" alt="dashboard_filtered_view" src="https://github.com/user-attachments/assets/21bf5a0e-ce8c-49ef-9097-36ad475953fc" />
-<img width="720" height="654" alt="top_10_emitters_2021" src="https://github.com/user-attachments/assets/bb727499-32dc-45b4-85e6-aa9b0c6a5300" />
 
 ## Author
 Renuga J
