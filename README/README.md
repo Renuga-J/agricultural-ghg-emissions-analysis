@@ -1,7 +1,7 @@
-# Global Agricultural Greenhouse Gas Emissions Analysis (1991–2021)
+# Global Agricultural Greenhouse Gas Emissions Analysis (1990–2021)
 
 ## Project overview
-This project analyzes global agricultural greenhouse gas emissions trends from 1991–2021 using SQL Server and Power BI.
+This project analyzes global agricultural greenhouse gas emissions trends from 1990–2021 using SQL Server and Power BI.
 
 The goal of this project was to clean and transform raw emissions data into an analysis-ready dataset and build an interactive dashboard to identify major trends, top contributing countries, greenhouse gas distributions and continent-wise emission pattern. 
 
@@ -36,8 +36,8 @@ SQL analysis was performed to identify:
 2. Which continents contribute the highest emissions?
 3. Which greenhouse gas contributes the most?
 4. Which countries were the top emitters in 2021?
-5. Which countries showed the highest emission increase between 1991–2021?
-6. Which countries showed a decrease in emissions between 1991 and 2021?
+5. Which countries showed the highest emission increase between 1990–2021?
+6. Which countries showed a decrease in emissions between 1990 and 2021?
 
 ## Dashboard Features
 
@@ -45,7 +45,7 @@ The Power BI dashboard includes:
 
 - KPI cards for total emissions, country count and 
 - Interactive slicers for continent and year
-- Emissions trend analysis (1991–2021)
+- Emissions trend analysis (1990–2021)
 - Greenhouse gas contribution breakdown
 - Continent-wise emissions comparison
 - Top agricultural emitting countries visualization
@@ -65,7 +65,8 @@ The Power BI dashboard includes:
 <img width="1076" height="761" alt="sql_eda_1" src="https://github.com/user-attachments/assets/53e77d1b-5622-4592-bd20-3e1695e03b0a" />
 
 ### Dashboard Overview
-<img width="1347" height="743" alt="dashboard_overview" src="https://github.com/user-attachments/assets/a080315e-cf7f-47bc-85e7-0748726cc7b7" />
+<img width="1351" height="748" alt="dashboard_overview" src="https://github.com/user-attachments/assets/d7d397e6-184a-4d76-b557-07865a7487f9" />
+
 
 ## Author
 Renuga J
